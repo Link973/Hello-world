@@ -4,4 +4,4 @@ tutorial thingy
 
 Yooooo
 
-Hows it going people If anybody is reading this I do have a youtube channel in which I play games check it out if you got time youtube.com/link973
+Hello made this once freecodecamp.com asked me to make it.
